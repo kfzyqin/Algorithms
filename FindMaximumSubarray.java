@@ -1,5 +1,3 @@
-package foundations.divide_and_conqure;
-
 import java.util.Scanner;
 
 /**
